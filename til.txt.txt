@@ -23,3 +23,14 @@ merge : 브랜치를 통합
 merge conflict : 여러 브랜치를 통합할 때 같은 작업파일에 둘이상의 새로운 커밋이 존재할 때 발생한다. 정리해서 커밋해주면 됨
  
 git, github, gitlab의 차이는 뭔지 궁금, +git flow도 
+
+- 3주차 주요 개념 키워드 적어보기
+
+PR pull request : 내 브랜치 작업을 반영해 달라고 요청
+amend; 가장 최신 commit 수정
+revert : commit 되돌리기, history에 남음
+reset : reset 초기화, 강제리셋은 매우조심
+stash : 브랜치를 임시저장
+코드리뷰 
+gitignore : git에서 감추는 기능
+readme, mark down 언어 
