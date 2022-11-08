@@ -1,4 +1,4 @@
 # TIL
 today I learned
 
-[스파르타코딩클럽수업](online.spartacodingclub.kr)
+[인비전랩](online.spartacodingclub.kr)
